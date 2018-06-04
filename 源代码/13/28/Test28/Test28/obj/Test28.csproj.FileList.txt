@@ -1,0 +1,8 @@
+bin\Debug\Test28.exe
+bin\Debug\Test28.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Test28.Form1.resources
+obj\Debug\Test28.Properties.Resources.resources
+obj\Debug\Test28.csproj.GenerateResource.Cache
+obj\Debug\Test28.exe
+obj\Debug\Test28.pdb

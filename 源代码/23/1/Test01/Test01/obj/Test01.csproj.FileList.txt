@@ -1,0 +1,9 @@
+bin\Debug\Test01.exe
+bin\Debug\Test01.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Test01.CrystalReport1.rpt
+obj\Debug\Test01.Properties.Resources.resources
+obj\Debug\Test01.csproj.GenerateResource.Cache
+obj\Debug\Test01.exe
+obj\Debug\Test01.pdb
+obj\Debug\Test01.Form1.resources

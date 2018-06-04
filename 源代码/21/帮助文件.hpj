@@ -1,0 +1,8 @@
+[OPTIONS]
+LCID=0x804 0x0 0x0 ; 中文(中国)
+REPORT=Yes
+CNT=帮助文件.cnt
+HLP=帮助文件.hlp
+
+[FILES]
+帮助文件.rtf

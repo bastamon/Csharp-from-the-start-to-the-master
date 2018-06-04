@@ -1,0 +1,2 @@
+D:\document\C#\C#从入门到精通(PDF+源代码)\源代码\15\1\Test01\Test01\obj\Debug\Test01.exe
+D:\document\C#\C#从入门到精通(PDF+源代码)\源代码\15\1\Test01\Test01\obj\Debug\Test01.pdb

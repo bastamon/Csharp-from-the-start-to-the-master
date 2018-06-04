@@ -1,0 +1,8 @@
+D:\document\C#\C#从入门到精通(PDF+源代码)\源代码\15\3\Test03\Test03\obj\Debug\Test03.exe
+D:\document\C#\C#从入门到精通(PDF+源代码)\源代码\15\3\Test03\Test03\obj\Debug\Test03.pdb
+D:\document\C#\C#从入门到精通(PDF+源代码)\源代码\15\3\Test03\Test03\bin\Debug\Test03.exe
+D:\document\C#\C#从入门到精通(PDF+源代码)\源代码\15\3\Test03\Test03\bin\Debug\Test03.pdb
+D:\document\C#\C#从入门到精通(PDF+源代码)\源代码\15\3\Test03\Test03\obj\Debug\Test03.csprojResolveAssemblyReference.cache
+D:\document\C#\C#从入门到精通(PDF+源代码)\源代码\15\3\Test03\Test03\obj\Debug\Test03.Form1.resources
+D:\document\C#\C#从入门到精通(PDF+源代码)\源代码\15\3\Test03\Test03\obj\Debug\Test03.Properties.Resources.resources
+D:\document\C#\C#从入门到精通(PDF+源代码)\源代码\15\3\Test03\Test03\obj\Debug\Test03.csproj.GenerateResource.Cache

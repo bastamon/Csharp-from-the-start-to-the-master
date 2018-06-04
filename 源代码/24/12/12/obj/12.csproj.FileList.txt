@@ -1,0 +1,10 @@
+bin\Debug\12.exe
+bin\Debug\12.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\_2.Form1.resources
+obj\Debug\_2.Properties.Resources.resources
+obj\Debug\12.csproj.GenerateResource.Cache
+obj\Debug\12.exe
+obj\Debug\12.pdb
+obj\Debug\_2.frmSend.resources
+obj\Debug\_2.frmReceive.resources

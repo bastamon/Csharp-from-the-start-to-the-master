@@ -1,0 +1,8 @@
+bin\Debug\Test22.exe
+bin\Debug\Test22.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Test22.Form1.resources
+obj\Debug\Test22.Properties.Resources.resources
+obj\Debug\Test22.csproj.GenerateResource.Cache
+obj\Debug\Test22.exe
+obj\Debug\Test22.pdb

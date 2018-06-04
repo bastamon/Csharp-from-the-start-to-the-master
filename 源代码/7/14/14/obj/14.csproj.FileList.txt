@@ -1,0 +1,5 @@
+bin\Debug\14.exe
+bin\Debug\14.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\14.exe
+obj\Debug\14.pdb

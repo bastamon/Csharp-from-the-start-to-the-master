@@ -1,0 +1,8 @@
+bin\Debug\Win_Talk.exe
+bin\Debug\Win_Talk.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Win_Talk.Form1.resources
+obj\Debug\Win_Talk.Properties.Resources.resources
+obj\Debug\Win_Talk.csproj.GenerateResource.Cache
+obj\Debug\Win_Talk.exe
+obj\Debug\Win_Talk.pdb

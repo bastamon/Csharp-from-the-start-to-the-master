@@ -1,0 +1,5 @@
+bin\Debug\Test25.exe
+bin\Debug\Test25.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Test25.exe
+obj\Debug\Test25.pdb
